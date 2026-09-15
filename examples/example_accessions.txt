@@ -1,0 +1,9 @@
+# Small example list (§ examples/README.md). Both are already in cache/, so
+# the example runs offline.
+#
+# O00214  galectin-8 (LGALS8) -- 2 segments, 2 conformational clusters each:
+#         the "yes, this protein moves" case.
+# O43488  aflatoxin B1 aldehyde reductase (AKR7A2) -- 1 segment, 1 cluster:
+#         the "no alternative conformation reported" case, for contrast.
+O00214
+O43488
