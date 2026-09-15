@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=1.5
+requests>=2.28
+gemmi>=0.6        # coordinate parsing for the optional RMSD layer
+# US-align / TM-align: optional, only needed for --tmscore. Not a pip package --
+# install the binary separately, easiest with:
+#     conda install -c bioconda usalign
+# (source: https://github.com/pylelab/USalign)
