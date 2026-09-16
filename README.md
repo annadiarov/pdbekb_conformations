@@ -1,7 +1,7 @@
 # pdbekb_conformations
 
 Given a list of UniProt accessions, harvest **PDBe-KB's conformational
-clustering data** and answer, for the Bindome project:
+clustering data** and answer:
 
 1. which protein domains have more than one reported conformation,
 2. how different are those conformations (GLOCON magnitude, and optionally a
